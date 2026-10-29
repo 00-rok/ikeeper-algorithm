@@ -13,3 +13,5 @@
 예) GitHub 아이디가 `hong123` 이면 `hong123.c`, `hong123.png`, `hong123.md`
 
 올리는 방법: 이 화면 오른쪽 위 **Add file → Upload files** → 파일 3개 끌어다 놓기 → **Propose changes** → **Create pull request**
+
+자세한 방법과 수정하는 법은 [제출 방법 안내](../../제출방법.md) 를 참고하세요.
